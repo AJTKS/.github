@@ -5,8 +5,22 @@
 
 ## Repository 
 
-<br>
+- [Client](https://github.com/AJTKS/AJTKS-client) (public)
+- [Server](https://github.com/AJTKS/AJTKS-server) (private)
+- [MU-LLAMA3](https://github.com/AJTKS/MU-LLaMA3) (public)
 
-## Teammates & Role
+## Team Members
 
-<br>
+### 서정민
+
+- Team Leader
+
+### 전희재
+
+### 조현진
+
+### 박승호
+
+### 김주의
+
+### 박준형
