@@ -9,9 +9,10 @@
 
 ## Repository 
 
+- [MU-LLaMA](https://github.com/AJTKS/AJTKS-MU-LLaMA) (public)
+- [Server](https://github.com/AJTKS/AJTKS-server) (public)
 - [Client](https://github.com/AJTKS/AJTKS-client) (public)
-- [Server](https://github.com/AJTKS/AJTKS-server) (private)
-- [MU-LLAMA3](https://github.com/AJTKS/MU-LLaMA3) (public)
+
 
 ## Reference Papers
 - [Audio Spectrogram Transformer(AST)](https://arxiv.org/abs/2104.01778) | <a href="https://github.com/YuanGongND/ast"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Github" width="25"/></a>
@@ -48,3 +49,13 @@
 
 ### 박준형
 - MERT: Acoustic Music Understanding Model with Large-Scale Self-Supervised Training `Paper Review`
+- `Client Developer`
+  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Marquee](https://img.shields.io/badge/Marquee-FF4500?style=for-the-badge&logo=html5&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![AWS Amplify](https://img.shields.io/badge/AWS_Amplify-FF9900?style=for-the-badge&logo=aws-amplify&logoColor=white)
