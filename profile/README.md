@@ -29,16 +29,16 @@
 - `Team Leader`
 - Listen, Think, and Understand `Paper Review`
 - Music Understanding LLaMA: Advancing Text-to-Music Generation with Question Answering and Captioning `Paper Review`
-- MU-LLaMA `fine-tuing & evaluation`
+- MU-LLaMA `Fine-tuning & Evaluation`
 
 ### 전희재
 - MERT: Acoustic Music Understanding Model with Large-Scale Self-Supervised Training `Paper Review`
 
 ### 조현진
 - LLark: A Multimodal Instruction-Following Language Model for Music `Paper Review`
-- LLaMA-7B-instruct `pretrining`
-- Database `data preprocessing`
-- GPT API `prompting`
+- LLaMA-7B-instruct `Pretraining`
+- Database `Data Preprocessing`
+- GPT API `Prompting`
 
 ### 박승호
 - Listen, Think, and Understand `Paper Review`
