@@ -1,7 +1,7 @@
 ## 알잘딱깔센 - 나만의 음악 추천서비스
 #### 2024 Spring YAICON TEAM
 
-[AJTKS Website](https://ajtks.site)
+[![AJTKS Website](https://img.shields.io/badge/AJTKS_website-blue?style=for-the-badge)](http://ajtks.site)
 
 <img width="1512" alt="image" src="https://github.com/AJTKS/.github/assets/115399447/fb8230d5-b709-474f-a0e5-765014663e0a">
 <img width="1509" alt="image" src="https://github.com/AJTKS/.github/assets/115399447/1db90114-b7ca-4814-94bd-8c0aa6137e4d">
