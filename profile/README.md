@@ -7,14 +7,14 @@
 <img width="1509" alt="image" src="https://github.com/AJTKS/.github/assets/115399447/1db90114-b7ca-4814-94bd-8c0aa6137e4d">
 
 
-## Repository 
+## ✔️ Repository 
 
 - [MU-LLaMA](https://github.com/AJTKS/AJTKS-MU-LLaMA) (public)
 - [Server](https://github.com/AJTKS/AJTKS-server) (public)
 - [Client](https://github.com/AJTKS/AJTKS-client) (public)
 
 
-## Reference Papers
+## 📄 Reference Papers
 - [Audio Spectrogram Transformer(AST)](https://arxiv.org/abs/2104.01778) | <a href="https://github.com/YuanGongND/ast"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Github" width="25"/></a>
 - [Listen, Think, and Understand(LTU)](https://openreview.net/pdf?id=nBZBPXdJlC) | <a href="https://github.com/YuanGongND/ltu"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Github" width="25"/></a>
 - [Music Emotion Maps in Arousal-Valence Space](https://www.researchgate.net/publication/307909024_Music_Emotion_Maps_in_Arousal-Valence_Space)
@@ -24,7 +24,7 @@
 
 
 
-## Team Members
+## 👏 Team Members
 
 ### 서정민
 - `Team Leader`
@@ -32,25 +32,37 @@
 - Music Understanding LLaMA: Advancing Text-to-Music Generation with Question Answering and Captioning `Paper Review`
 - MU-LLaMA `Fine-tuning & Evaluation`
 
-### 전희재
-- MERT: Acoustic Music Understanding Model with Large-Scale Self-Supervised Training `Paper Review`
-
 ### 조현진
 - LLark: A Multimodal Instruction-Following Language Model for Music `Paper Review`
 - LLaMA-7B-instruct `Pretraining`
 - Database `Data Preprocessing`
 - GPT API `Prompting`
 
-### 박승호
-- Listen, Think, and Understand `Paper Review`
-
 ### 김주의
 - LLark: A Multimodal Instruction-Following Language Model for Music `Paper Review`
+- MU-LLaMA `Environment Setting` (Attempt for upgrading LLaMA2 to LLaMA3)
+
+### 전희재
+- MERT: Acoustic Music Understanding Model with Large-Scale Self-Supervised Training `Paper Review`
+- `Database Implementation`
+- `Sever Develop`
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+### 박승호
+- Listen, Think, and Understand `Paper Review`
+- `Database Implementation`
+- `Sever Develop`
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ### 박준형
 - MERT: Acoustic Music Understanding Model with Large-Scale Self-Supervised Training `Paper Review`
-- `Client Developer`
-  
+- `Client Develop`
+
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
