@@ -3,7 +3,8 @@
 
 [AJTKS Website](https://ajtks.site)
 
-<img width="1512" alt="image" src="https://github.com/AJTKS/.github/assets/115399447/8b372824-8df6-4e70-ba6c-9143c912b1fa">
+<img width="1512" alt="image" src="https://github.com/AJTKS/.github/assets/115399447/fb8230d5-b709-474f-a0e5-765014663e0a">
+<img width="1509" alt="image" src="https://github.com/AJTKS/.github/assets/115399447/1db90114-b7ca-4814-94bd-8c0aa6137e4d">
 
 
 ## Repository 
