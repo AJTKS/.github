@@ -1,5 +1,5 @@
 ## 알잘딱깔센 - 나만의 음악 추천서비스
-#### 2024 Spring YAICON TEAM
+### 🏆 2024 SPRING YAICON 2ND PRIZE 🏆
 
 [![AJTKS Website](https://img.shields.io/badge/AJTKS_website-blue?style=for-the-badge)](http://ajtks.site)
 
